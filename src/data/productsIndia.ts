@@ -395,5 +395,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61BltT9ZT5L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/48s8f10",
     category: "Electronics",
-  }
+  },
+  {
+    id: 57,
+    name: "Orthopedic Gel Seat Cushion",
+    image: "https://m.media-amazon.com/images/I/619M0QsOQkL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/3RaoOZg",
+    category: "Health & Fitness",
+  },
 ];
