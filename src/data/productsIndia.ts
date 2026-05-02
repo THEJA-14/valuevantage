@@ -410,4 +410,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4uf1Mib",
     category: "Travel Accessories",
   },
+  {
+    id: 59,
+    name: "Ice Cube Tray with Lid and Bin ",
+    image: "https://m.media-amazon.com/images/I/316UsigT5LL.jpg",
+    affiliateUrl: "https://amzn.to/425UgdF",
+    category: "Kitchen",
+  },
 ];
